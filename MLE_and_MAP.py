@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Nov 24 17:15:35 2020
+This file contains all visualizations of the Youtube video entitled (Bayesian Inference 2: Bayesian Data Modelling)
+The link to the video is here: https://www.youtube.com/watch?v=ZMstZxoDSbA
+The code includes the calclations of MLE and MAP methods
 
 @author: boutros El-Gamil
 """
